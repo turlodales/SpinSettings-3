@@ -8,8 +8,8 @@ Hello and Welcome This is my own attempted to get it reworking but for 64bit Dev
 | Decsription | ios version |Link|
 |---------|---------|---------|
 | SpinSettings (32/64bit)forked form the origanal verson || https://github.com/turlodales/SpinSettings |
-| SpinSettings-2 (iOS) || https://github.com/turlodales/Spinsettings-2 |
-| SpinSettings-3 (iPadOS) || https://github.com/turlodales/SpinSettings-3-iPadSO |
+| SpinSettings-2 (iOS) |7.0 to 12.5.5| https://github.com/turlodales/Spinsettings-2 |
+| SpinSettings-3 (iPadOS) |13.0 to 16.x| https://github.com/turlodales/SpinSettings-3-iPadSO |
 | SpinSettings-2 (TVOS) ||https://github.com/turlodales/SpinSettings-2-TVOS|
 
 
@@ -23,7 +23,7 @@ My own plan is to make it work from see below
 - [ ] iOS 15
 - [ ] iOS 16
 
-my plain is to make a working verson of SpinSettings for ios 11.0 to 12.0
+my plain is to make a working verson of SpinSettings 3 for ios 13.0 to 16.x.x
 
 why am i putting is on github:
 

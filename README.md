@@ -37,32 +37,6 @@ My own road map
 - [ ] Step 6 = Relise to the public
 - [ ] Step 7 = Update when needed 
 
-# Not Supported Devices Yet above iOS 13
-| Device         | Staus   | Device        | Staus | 
-|---------|----------|---------|----------|
-|  iPhone 6      | Planned |      iPod Touch 6      | Planned |
-|  iPhone 6+     | Planned | - | - |
-|  iPhone SE     | Planned | - | - |
-|  iPhone 6S     | Planned | - | - |
-|  iPhone 6S+    | Planned | - | - |
-|  iPhone 7      | Planned | - | - |
-|  iPhone 7+     | Planned | - | - |
-|  iPhone 8      | Planned | - | - |
-|  iPhone 8+     | Planned | - | - |
-|  iPhone X      | Planned | - | - |
-|  iPhone XS     | Planned | - | - |
-|  iPhone XS Max | Planned | - | - |
-|  iPhone XR     | Planned | - | - |
-|  iPhone 11     | Planned | - | - |
-|  iPhone 11 Pro | Planned | - | - |
-|  iPhone 11 Pro Max | Planned | - | - |
-|  iPhone SE (2020) | Planned  | - | - |
-|  iPhone 12     | Planned     | - | - |
-|  iPhone 12 Mini | Planned    | - | - |
-|  iPhone 12 Pro | Planned     | - | - |
-|  iPhone 12 Pro Max | Planned | - | - |
-|  iPhone SE (2020) | Planned  | - | - |
-
 Notes: 
 
 | Number | Decsription |

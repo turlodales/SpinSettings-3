@@ -20,6 +20,7 @@ My own plan is to make it work from see below
 - [ ] iOS 13
 - [ ] iOS 14
 - [ ] iOS 15
+- [ ] iOS 16
 
 my plain is to make a working verson of SpinSettings for ios 11.0 to 12.0
 
@@ -72,6 +73,7 @@ Notes:
 | 4 | iPhone 7 got off eBay on iOS 13.1.2 no shsh2 blobs so cant downgrade below 13.1.2 |
 | 5 | iPhone 7+ got off friend on iOS 13.7 no shsh2 blobs so cant downgrade below 13.7 |
 | 6 | iPhone X got off Facebay on iOS 15.1 no shsh2 blobs so cant downgrade below 15.1 |
+| 7 | iPhone XR got off Ebay on iOS 15.4.1 no shsh2 blobs so cant downgrade below 15.5 but updated it to iOS 16.0 B1|
 
 # Devices 64Bit
 
@@ -87,6 +89,7 @@ Notes:
 | iPhone 7+    | Planned |
 | iPhone 8+   | Planned |
 | iPhone X   | Planned |
+| iPhone XR   | Planned |
 | iPhone 11 Pro Max   | Planned |
 
 
@@ -95,7 +98,6 @@ Notes:
 |---------|----------|---------|----------|---------|----------|
 | iPhone 6+ | Planned | iPod Touch 6 | planned |
 | iPhone 8  | planned | -|-|
-| iPhone XR | planned | -|-|
 | iPhone XS | planned | -|-|
 | iPhone XS Max | planned | -|-|
 | iPhone 11 | planned |-|-|
@@ -149,7 +151,7 @@ Notes:
 |iOS 14.7     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO|
 |iOS 14.8     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO|
 
-# Supported Devices iOS 15.0 to iOS 15.0 
+# Supported Devices iOS 15.0 to iOS 15.5 
 |iOS|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|11|11 Pro|11 Pro Max|SE (2020)|12|12 Mini|12 Pro|12 Pro Max|iPod Touch 7| 13 | 13 mini | 13 Pro | Pro Max
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 |iOS 15.0     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO| NO|NO|NO|NO| 
@@ -165,6 +167,11 @@ Notes:
 |iOS 15.5     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO| NO|NO|NO|NO| 
 -----------------------------------------------------------------------------------------------------------------------------
 
+# Supported Devices iOS 16.0 to iOS 16.0 
+|iOS|SE|8|8+|XS|XS Max|XR|11|11 Pro|11 Pro Max|SE (2020)|12|12 Mini|12 Pro|12 Pro Max|iPod Touch 7| 13 | 13 mini | 13 Pro | Pro Max
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 16.0 B1      |NO | NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO| NO|NO|NO|NO| 
+-----------------------------------------------------------------------------------------------------------------------------
 
 I would like to say a big thank you to the people that have helped me make this happen:
 

@@ -94,15 +94,15 @@ Notes:
 
 
 # Not Supported 64bit Devices  (MAY Work But NOT Tested as i dont have yet)
-| Device | Supports |Device | Supports |Device | Supports |
-|---------|----------|---------|----------|---------|----------|
+| Device | Supports |Device | Supports |
+|---------|----------|---------|----------|
 | iPhone 6+ | Planned | iPod Touch 6 | planned |
 | iPhone 8  | planned | -|-|
 | iPhone XS | planned | -|-|
 | iPhone XS Max | planned | -|-|
 | iPhone 11 | planned |-|-|
 | iPhone 11 Pro| planned | -|-|
-| iPhone SE (2020) | planned | -|-|
+| iPhone SE 2 (2020) | planned | -|-|
 | iPhone 12 | planned |-|-|
 | iPhone 12 Mini | Planned | -| Planned |-|-|
 | iPhone 12 Pro | Planned | - |-|-|
@@ -111,6 +111,7 @@ Notes:
 | iPhone 13 Mini | Planned | - |-|-|
 | iPhone 13 Pro | Planned | - |-|-|
 | iPhone 13 Pro Max | Planned | - |-|-|
+| iPhone SE 3 (2022) | Planned | - |-|-|
 
 
 # Supported Devices iOS 13.0 to iOS 13.7 

@@ -9,7 +9,7 @@ Hello and Welcome This is my own attempted to get it reworking but for 64bit Dev
 |---------|---------|---------|
 | SpinSettings (32/64bit)forked form the origanal verson || https://github.com/turlodales/SpinSettings |
 | SpinSettings-2 (iOS) || https://github.com/turlodales/Spinsettings-2 |
-| SpinSettings-2 (iPadOS) || https://github.com/turlodales/SpinSettings-2-iPadSO |
+| SpinSettings-3 (iPadOS) || https://github.com/turlodales/SpinSettings-3-iPadSO |
 | SpinSettings-2 (TVOS) ||https://github.com/turlodales/SpinSettings-2-TVOS|
 
 

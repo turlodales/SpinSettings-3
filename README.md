@@ -70,22 +70,22 @@ Notes:
 # Not Supported 64bit Devices  (MAY Work But NOT Tested as i dont have yet)
 | Device | Supports |Device | Supports |
 |---------|----------|---------|----------|
-| iPhone 6+ | Planned | iPod Touch 6 | planned |
-| iPhone 8  | planned | -|-|
+| iPhone 6+ | Planned | iPod Touch 7 | planned |
+| iPhone 8  | planned | - | - |
 | iPhone XS | planned | -|-|
 | iPhone XS Max | planned | -|-|
 | iPhone 11 | planned |-|-|
 | iPhone 11 Pro| planned | -|-|
-| iPhone SE 2 (2020) | planned | -|-|
+| iPhone SE 2 (2020) | planned |-|-|
 | iPhone 12 | planned |-|-|
-| iPhone 12 Mini | Planned | -| Planned |-|-|
-| iPhone 12 Pro | Planned | - |-|-|
-| iPhone 12 Pro Max | Planned | - |-|-|
-| iPhone 13 | Planned | - |-|-|
-| iPhone 13 Mini | Planned | - |-|-|
-| iPhone 13 Pro | Planned | - |-|-|
-| iPhone 13 Pro Max | Planned | - |-|-|
-| iPhone SE 3 (2022) | Planned | - |-|-|
+| iPhone 12 Mini | Planned | -|-|
+| iPhone 12 Pro | Planned | - |-|
+| iPhone 12 Pro Max | Planned | - |-|
+| iPhone 13 | Planned | - |-|
+| iPhone 13 Mini | Planned | - |-|
+| iPhone 13 Pro | Planned | - |-|
+| iPhone 13 Pro Max | Planned | - |-|
+| iPhone SE 3 (2022) | Planned | - |-|
 
 
 # Supported Devices iOS 13.0 to iOS 13.7 
@@ -140,6 +140,7 @@ Notes:
 |iOS 15.4     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO| NO|NO|NO|NO| NO| 
 |iOS 15.4.1     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO| NO|NO|NO|NO| NO| 
 |iOS 15.5     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO| NO|NO|NO|NO| NO| 
+|iOS 15.6 B2     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO| NO|NO|NO|NO| NO| 
 -----------------------------------------------------------------------------------------------------------------------------
 
 # Supported Devices iOS 16.0 to iOS 16.0 
@@ -156,7 +157,7 @@ more to follow if I get help
 
 myself to prove that even someone like me with dyslexia can do something to help the jailbreaking community
 
-FreeNAS OS for my Home Server's
+TrueNAS OS for my Home Server's
 
 Youtube for the vid's that have helped me do this I will list them all soon more to follow when I have spoken to them if I can post they vids
 

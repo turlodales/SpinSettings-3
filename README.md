@@ -87,7 +87,10 @@ Notes:
 | iPhone 13 Pro | Planned | - |-|
 | iPhone 13 Pro Max | Planned | - |-|
 | iPhone SE 3 (2022) | Planned | - |-|
-
+| iPhone 14 | Planned | - |-|
+| iPhone 14+ | Planned | - |-|
+| iPhone 14 Pro | Planned | - |-|
+| iPhone 14 Pro Max | Planned | - |-|
 
 # Supported Devices iOS 13.0 to iOS 13.7 
 |iOS|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|11|11 Pro|11 Pro Max|SE (2020)|iPod Touch 7|
@@ -141,13 +144,13 @@ Notes:
 |iOS 15.4     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO| NO|NO|NO|NO| NO| 
 |iOS 15.4.1     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO| NO|NO|NO|NO| NO| 
 |iOS 15.5     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO| NO|NO|NO|NO| NO| 
-|iOS 15.6 B2     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO| NO|NO|NO|NO| NO| 
+|iOS 15.6      |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO| NO|NO|NO|NO| NO| 
 -----------------------------------------------------------------------------------------------------------------------------
 
 # Supported Devices iOS 16.0 to iOS 16.0 
-|iOS|8|8+|XS|XS Max|XR|11|11 Pro|11 Pro Max|SE 2 (2020)|12|12 Mini|12 Pro|12 Pro Max| 13 | 13 mini | 13 Pro | Pro Max|SE 3 (2022)|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 16.0 B1      | NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO|NO|NO|NO| NO|
+|iOS|8|8+|XS|XS Max|XR|11|11 Pro|11 Pro Max|SE 2 (2020)|12|12 Mini|12 Pro|12 Pro Max| 13 | 13 mini | 13 Pro | Pro Max|SE 3 (2022)| 14 | 14+ | 14 Pro | 14 Pro Max |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 16.0      | NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO|NO|NO|NO| NO| NO|NO|NO|NO|
 -----------------------------------------------------------------------------------------------------------------------------
 
 I would like to say a big thank you to the people that have helped me make this happen:
